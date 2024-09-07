@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.active {
+  color: darkgreen;
+  font-weight: 700;
+}
+
+.no-active {
+  color: gray;
+  font-weight: 400;
+  text-decoration: none;
+}
